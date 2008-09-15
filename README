@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2377
+
+This plugin provides commands to convert special characters of HTML to entities.
+
+Usage:
+	:[range]HTMLSpecialChars
+	:[range]HTMLSpecialCharsDecode
+
+Manual:
+	:help htmlspecialchars.txt
+
